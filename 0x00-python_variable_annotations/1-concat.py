@@ -1,5 +1,5 @@
-#!/usr/bin/python3
-""" type anotated function that concatenates
+#!/usr/bin/env python3
+""" type annotated function that concatenates
     two strings
 """
 
