@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Annotsted function """
+""" Annotated function """
 from typing import Callable, Iterator, Union, Optional, List, Tuple
 
 
