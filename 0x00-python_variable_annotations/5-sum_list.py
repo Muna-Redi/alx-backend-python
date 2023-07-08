@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """ Annotated function with Complex type argument"""
+from typing import List
+
 
 def sum_list(input_list: List[float]) -> float:
     """
