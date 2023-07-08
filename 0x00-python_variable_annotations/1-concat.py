@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-""" type annotated function that concatenates
-    two strings
-"""
 
-    def concat(str1: str, str2: str) -> str:
-        """ concatenates two strings """
+""" Annotated function concat """
 
-        return str1 + str2
+
+def concat(str1: str, str2: str) -> str:
+    """ Returns sum of two strings """
+    return str1 + str2
